@@ -198,7 +198,7 @@ HR-Analytics-Tableau-Dashboard/
 ├── dataset.csv
 ├── README.md
 ├── LICENSE
-│
+│__ images
 └── assets/
     ├── HR-Overview.png
     ├── HR-Filter.png
